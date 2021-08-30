@@ -95,4 +95,3 @@ Change permission on files and folders for groups and others so that users in a 
 chmod g+rwx, o-rwx file1.txt file2.txt file3.txt folder1 folder2 folder3
 
 
-RIRI
