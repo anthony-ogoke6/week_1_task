@@ -46,21 +46,21 @@ sudo usermod -aG first_group user_e
 
 Add user_f to user_j to second_group
 
-sudo usermod -aG first_group user_f
-sudo usermod -aG first_group user_g
-sudo usermod -aG first_group user_h
-sudo usermod -aG first_group user_i
-sudo usermod -aG first_group user_j
+sudo usermod -aG second_group user_f
+sudo usermod -aG second_group user_g
+sudo usermod -aG second_group user_h
+sudo usermod -aG second_group user_i
+sudo usermod -aG second_group user_j
 
 
 
 Add user_k to user_o to first_group
 
-sudo usermod -aG first_group user_k
-sudo usermod -aG first_group user_l
-sudo usermod -aG first_group user_m
-sudo usermod -aG first_group user_n
-sudo usermod -aG first_group user_o
+sudo usermod -aG third_group user_k
+sudo usermod -aG third_group user_l
+sudo usermod -aG third_group user_m
+sudo usermod -aG third_group user_n
+sudo usermod -aG third_group user_o
 
 
 
